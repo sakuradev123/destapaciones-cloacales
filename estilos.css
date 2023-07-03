@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgba(242, 243, 255, 1);
+    -webkit-text-stroke-width: thin;
+    background-image: url(./toilet.png);
+    background-position-y: center;
+    background-size: cover;
+}
+h1, h2, h3, h4, h5{
+    color: rgba(8, 25, 132);
+    border-top-style: outset;
+    border-bottom-style: outset;
+}
+p{
+    text-align: justify;
+    margin: 0rem;
+}
